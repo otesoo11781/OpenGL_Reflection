@@ -5,7 +5,7 @@ Use stencil buffer to render Reflection scene in mirror's area.
 Use accumulation buffer to accumulate effects of reflection and refraction.
 Use back-face/front-face culling: glEnable(GL_CULL_FACE).
 
-UI control:
+## UI control:
 Keyboard : Move the camera and adjust parameters.
 'w' : zoom in
 'a' : move left (circle the center)
