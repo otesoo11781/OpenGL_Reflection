@@ -10,6 +10,7 @@ Use accumulation buffer to accumulate effects of reflection and refraction.
 Use back-face/front-face culling: glEnable(GL_CULL_FACE).
 
 UI control:
+
 Keyboard : Move the camera and adjust parameters.
     
     'w' : zoom in
